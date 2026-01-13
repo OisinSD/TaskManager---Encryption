@@ -20,10 +20,11 @@ A lightweight, Java-based terminal application designed to manage your daily act
 ### Prerequisites
 * Java Development Kit (JDK) 15 or higher (Uses Text Blocks).
 
-###Navigate to the folder:
+### Navigate to the folder:
 cd taskmanagerEncryption
-###Compile the source files:
+### Compile the source files:
 javac main.java tasks.java
-###Run the application
+### Run the application
 java main
+
 
