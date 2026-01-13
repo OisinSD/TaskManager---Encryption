@@ -1,4 +1,4 @@
-package taskmanagerEncryption;
+// package taskmanagerEncryption;
 
 public class tasks {
 
@@ -22,7 +22,6 @@ public class tasks {
 	public void setTaskIndex(int taskIndex) {
 		this.taskIndex = taskIndex;
 	}
-	
 	public String getTaskName() {
 		return taskName;
 	}
