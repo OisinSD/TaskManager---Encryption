@@ -1,5 +1,3 @@
-﻿# TaskManager---Encryption
-
 # Encrypted Task Manager (Terminal Based) 🔐
 
 A lightweight, Java-based terminal application designed to manage your daily activities with a focus on privacy. This application stores your tasks in a local `.txt` file, but uses encryption to ensure your data remains unreadable to anyone opening the file directly.
@@ -21,3 +19,4 @@ A lightweight, Java-based terminal application designed to manage your daily act
 
 ### Prerequisites
 * Java Development Kit (JDK) 15 or higher (Uses Text Blocks).
+
