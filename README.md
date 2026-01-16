@@ -27,6 +27,7 @@ javac main.java tasks.java
 ### Run the application
 java main
 
+### Showcase
 ## opening application
 <img width="1097" height="446" alt="image" src="https://github.com/user-attachments/assets/17a1322b-2960-4ff4-93a0-5858a6d2a033" />
 ## printing tasks
@@ -37,4 +38,5 @@ java main
 <img width="1345" height="862" alt="image" src="https://github.com/user-attachments/assets/bf47e2fd-7597-42b5-bb3d-98772ff0e09c" />
 ## save and exit application
 <img width="983" height="287" alt="image" src="https://github.com/user-attachments/assets/cf5430f7-d2a8-4650-be28-c87e3aafc46a" />
+
 
