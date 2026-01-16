@@ -27,4 +27,12 @@ javac main.java tasks.java
 ### Run the application
 java main
 
+<img width="1097" height="446" alt="image" src="https://github.com/user-attachments/assets/17a1322b-2960-4ff4-93a0-5858a6d2a033" />
 
+<img width="977" height="478" alt="image" src="https://github.com/user-attachments/assets/d513597d-e0a8-4c2b-9876-98ca79b330f7" />
+
+<img width="1105" height="726" alt="image" src="https://github.com/user-attachments/assets/780e1e03-d020-49de-b2ca-59162af83ebb" />
+
+<img width="1345" height="862" alt="image" src="https://github.com/user-attachments/assets/bf47e2fd-7597-42b5-bb3d-98772ff0e09c" />
+
+<img width="983" height="287" alt="image" src="https://github.com/user-attachments/assets/cf5430f7-d2a8-4650-be28-c87e3aafc46a" />
