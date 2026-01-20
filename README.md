@@ -47,6 +47,10 @@ java main
 
 <img width="983" height="287" alt="image" src="https://github.com/user-attachments/assets/cf5430f7-d2a8-4650-be28-c87e3aafc46a" />
 
+### ### Example of txt file with encrypted tasks
+
+<img width="776" height="945" alt="image" src="https://github.com/user-attachments/assets/b05c2695-2e8b-4b1b-bc8f-65be24192da5" />
+
 
 
 
