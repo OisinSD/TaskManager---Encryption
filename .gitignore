@@ -1,2 +1,7 @@
 #Ignore compiled Java files
 *.class
+
+bin/
+target/
+.idea/
+.vscode/
