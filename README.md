@@ -3,17 +3,22 @@
 A lightweight, Java-based terminal application designed to manage your daily activities with a focus on privacy. This application stores your tasks in a local `.txt` file, but uses encryption to ensure your data remains unreadable to anyone opening the file directly.
 
 ##  Features
-* **Encrypted Storage:** All tasks are encrypted before being written to `Task.txt`.
-* **On-the-Fly Decryption:** Tasks are decrypted only when viewed within the application.
+* **Encrypted Storage:** All tasks are encrypted after saving using "save" before being written to `Task.txt`.
+* **Decryption:** Tasks are decrypted when the password is correct and the Tasks.txt file is scanned.
 * **Terminal Interface:** A clean, command-line interface.
 * **Persistent Data:** Tasks are saved locally and persist between sessions.
 
 ##  Commands
-* `add`: Create a new task (automatically encrypted).
-* `print`: Decrypt and display your current task list.
-* `remove`: Delete a task from your list.
+* `add`: Create a new task.
+* `print`: Display your current task list.
+* `remove`: Delete a specific task from your list.
+* `save`: Writes encrypted tasks to Tasks.txt.
 * `help`: View the command menu.
 * `exit`: Ends the session.
+
+## Encryption 
+I decided to encrypt and decrypt myself using XOR on the bytes of the task and private key.
+This helped me better understand how encryption worked. 
 
 ##  Getting Started
 
@@ -46,6 +51,11 @@ java main
 ### Save and Exit application
 
 <img width="983" height="287" alt="image" src="https://github.com/user-attachments/assets/cf5430f7-d2a8-4650-be28-c87e3aafc46a" />
+
+### ### Example of txt file with encrypted tasks
+
+<img width="776" height="945" alt="image" src="https://github.com/user-attachments/assets/b05c2695-2e8b-4b1b-bc8f-65be24192da5" />
+
 
 
 
