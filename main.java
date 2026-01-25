@@ -10,9 +10,6 @@ import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-import javax.crypto.Cipher;
-import javax.crypto.KeyGenerator;
-import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 
 
@@ -238,7 +235,7 @@ public class Main{
 	
 	public static void help(){
 		System.out.println("\nCommand Options");
-		System.out.println("\n:$ Print\n:$ Add\n:$ Remove\n:$ exit\n" );
+		System.out.println("\n:$ print\n:$ add\n:$ remove\n:$ save\n:$ exit\n" );
 		options();
 	}
 
