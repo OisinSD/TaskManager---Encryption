@@ -44,6 +44,7 @@ java main
 ### Printing tasks
 
 <img width="1915" height="981" alt="image" src="https://github.com/user-attachments/assets/fae0e2f4-6214-4da4-ab53-6dbbfb3cbcb1" />
+<img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/6ad27361-c27e-4dbe-8b92-2ba37456bb60" />
 
 ### Adding task
 
@@ -64,6 +65,7 @@ java main
 ### ### Example of txt file with encrypted tasks
 
 <img width="1915" height="1020" alt="image" src="https://github.com/user-attachments/assets/4d34e417-a857-4ec2-a360-9d42a523b1f4" />
+
 
 
 
