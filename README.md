@@ -34,27 +34,38 @@ java main
 
 ## Showcase
 ### Opening application
-<img width="1097" height="446" alt="image" src="https://github.com/user-attachments/assets/17a1322b-2960-4ff4-93a0-5858a6d2a033" />
+
+<img width="1912" height="980" alt="image" src="https://github.com/user-attachments/assets/9f3ca8f2-ec13-4138-a098-d2d11562add3" />
+
+### Logging in 
+
+<img width="1911" height="981" alt="image" src="https://github.com/user-attachments/assets/ac33b60c-36c5-4b92-9772-71daf3f9292b" />
 
 ### Printing tasks
 
-<img width="977" height="478" alt="image" src="https://github.com/user-attachments/assets/d513597d-e0a8-4c2b-9876-98ca79b330f7" />
+<img width="1915" height="981" alt="image" src="https://github.com/user-attachments/assets/fae0e2f4-6214-4da4-ab53-6dbbfb3cbcb1" />
 
 ### Adding task
 
-<img width="1105" height="726" alt="image" src="https://github.com/user-attachments/assets/780e1e03-d020-49de-b2ca-59162af83ebb" />
+<img width="1917" height="978" alt="image" src="https://github.com/user-attachments/assets/c8f3d42e-5571-4818-86ac-6e0888db9d5e" />
 
 ### Invalid inputs
 
-<img width="1345" height="862" alt="image" src="https://github.com/user-attachments/assets/bf47e2fd-7597-42b5-bb3d-98772ff0e09c" />
+<img width="1915" height="975" alt="image" src="https://github.com/user-attachments/assets/2f80eaab-7531-4f83-86c1-3f47d8352b67" />
+
+### Help command
+
+<img width="1917" height="978" alt="image" src="https://github.com/user-attachments/assets/5c37222f-8246-4396-b799-758e828b3def" />
 
 ### Save and Exit application
 
-<img width="983" height="287" alt="image" src="https://github.com/user-attachments/assets/cf5430f7-d2a8-4650-be28-c87e3aafc46a" />
+<img width="1911" height="972" alt="image" src="https://github.com/user-attachments/assets/aefed5fa-f1a6-4746-9aee-fa07d94993ec" />
 
 ### ### Example of txt file with encrypted tasks
 
-<img width="776" height="945" alt="image" src="https://github.com/user-attachments/assets/b05c2695-2e8b-4b1b-bc8f-65be24192da5" />
+<img width="1915" height="1020" alt="image" src="https://github.com/user-attachments/assets/4d34e417-a857-4ec2-a360-9d42a523b1f4" />
+
+
 
 
 
